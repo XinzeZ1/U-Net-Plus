@@ -1,2 +1,2 @@
 # U-Net-Plus
-U-Net for brain ventricle segmentation
+U-Net trained for brain ventricle segmentation.
